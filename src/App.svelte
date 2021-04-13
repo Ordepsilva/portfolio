@@ -1,27 +1,21 @@
 <script>
+  export let name;
 </script>
 
 <style>
-	main {
-		text-align: center;
-		padding: 1em;
-		margin: 0 auto;
-	}
-
-	h1 {
-		color: #ff3e00;
-		text-transform: uppercase;
-		font-size: 4em;
-		font-weight: 100;
-	}
-
-	@media (min-width: 640px) {
-	}
+  h1 {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+  p {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+  }
 </style>
 
 <main>
-	<h1>You should start playing Shakes & Fidget</h1>
-	<div class="wrapper">
-		<button href="https://w45.sfgame.net/">Start Here!</button>
-	</div>
+  <h1>Alguem que dê ban nesta Atrasada</h1>
+  <p>RAQUEL TEIXEIRA</p>
+  <p>Para mais informações click here:</p>
+  <a href="https://www.instagram.com/raquelteixeira16/" target="_blank"> Instagram </a>
 </main>
