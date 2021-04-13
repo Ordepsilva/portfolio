@@ -1,4 +1,6 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+Hi
+
+You can check the current website version here https://ordepsilva.github.io/portfolio/
 
 ---
 
